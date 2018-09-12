@@ -1,0 +1,31 @@
+﻿/**
+    Date : Tuesday, 11th September 2018
+
+    Ressource/Book : Apprendre à programmer avec Python 3
+
+    Author : Gérard Swinnen
+
+    Challenge : #365DaysofCode #Python #Day1
+
+    Duration : 1h34mn38s
+*/
+           
+                                Summary of The Session
+                                -----------------------
+During this first session, I retained that, although there is obviously a very large number 
+of programming languages, each has its advantages and disadvantages. But it was necessary 
+to choose a language of higher level, less constraining, with the syntax more readable. And 
+this is where the choice of Python was made, the latter being a very modern language with 
+growing popularity.
+
+Python is a portable, dynamic, extensible, free language that allows (without imposing) a 
+modular approach and object-oriented to programming. Python has been developed since 1989 
+by Guido van Rossum and many volunteer contributors. 
+
+Python is suitable for scripts of about ten lines as well as complex projects of tens of 
+thousands of lines. 
+
+Finally, Python is a language of choice for processing XML. 
+
+There are several versions of Python namely: python 1, python2, python3. But during this 
+challenge, we will install and use Py3.
