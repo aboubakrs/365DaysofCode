@@ -1,0 +1,24 @@
+﻿/**
+    Date : Wednesday, 112h September 2018
+
+    Ressource/Book : Apprendre à programmer avec Python 3
+
+    Author : Gérard Swinnen
+
+    Challenge : #365DaysofCode #Python #Day2
+
+    Duration : 1h54mn06s
+*/
+
+                                 Summary of The Session
+                                -----------------------
+En Python, dirai-je en programmation de manière générale il peut exister trois types d'erreurs assez différentes :
+    - Erreur de Syntaxe
+    - Erreur Sémantique
+    - Exceptions
+
+La programmation est donc l’art de commander à un ordinateur de faire exactement ce que 
+vous voulez, et Python compte parmi les langages qu’il est capable de comprendre pour 
+recevoir vos ordres.
+
+Calculer avec Python
