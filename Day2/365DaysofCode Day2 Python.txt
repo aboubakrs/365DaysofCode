@@ -1,5 +1,5 @@
 ﻿/**
-    Date : Wednesday, 112h September 2018
+    Date : Wednesday, 12th September 2018
 
     Ressource/Book : Apprendre à programmer avec Python 3
 
