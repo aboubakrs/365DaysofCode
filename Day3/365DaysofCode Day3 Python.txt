@@ -1,0 +1,43 @@
+/**
+    Date : Thursday, 13th September 2018
+
+    Ressource/Book : Apprendre à programmer avec Python 3
+
+    Author : Gérard Swinnen
+
+    Challenge : #365DaysofCode #Python #Day3
+
+    Duration : 1h25mn45s
+*/
+
+                                 Summary of The Session
+                                -----------------------
+Données et Variables
+
+Noms de Variables et Mots réservés()
+    Convention : "nomVariable"
+    Convention pour Constantes : "CONSTANTE"
+    33 mots réservés ==> No TOUCH
+
+Affectation
+    Le signe "="
+
+Afficher la valeur d'une variable
+    "Interpreteur Python"
+    Fonction "print()"
+
+Typage des Variables
+    Typage de Variables sous Python = Typage Dynamique =! Typage Statique
+
+Affection Multiple'zer
+    x = y = 7
+    x, y = 7, 458
+
+Opérateurs et Expressions
+    +
+    -
+    *
+    /
+    //
+    **
+    %
