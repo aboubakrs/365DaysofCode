@@ -1,0 +1,39 @@
+/**
+    Date : Friday, 14th September 2018
+
+    Ressource/Book : Apprendre à programmer avec Python 3
+
+    Author : Gérard Swinnen
+
+    Challenge : #365DaysofCode #Python #Day4
+
+    Duration : 1h37mn05s
+*/
+
+                                 Summary of The Session
+                                -----------------------
+
+Priorité des opérations
+    Acronyme PEMDAS = (Parentheses - Exposants - Multiplication - Division - Addition - Soustraction)
+
+Composition
+
+Séquence d'instructions
+    ==> Série d'instructions qui se suivent
+
+Sélection ou execution Conditionnelle
+    ==> instruction if
+    ==> instruction if else
+
+Operateur de comparaison
+    ==
+    !=
+    >
+    <
+    <=
+    >=
+
+Instructions composées – blocs d’instructions
+
+Instuctions imbriquées
+    Pour les structures de décision complexe
