@@ -1,0 +1,23 @@
+/**
+    Date : Saturday, 15th September 2018
+
+    Ressource/Book : Apprendre à programmer avec Python 3
+
+    Author : Gérard Swinnen
+
+    Challenge : #365DaysofCode #Python #Day5
+
+    Duration : 2h05mn45s
+*/
+
+                                 Summary of The Session
+                                -----------------------
+
+L'instruction en boucle
+    l'instruction for .. in ..
+    l'instruction while
+
+Construction d'une suite mathematique
+
+end=" " signifie qu'on souhaite remplacer le saut à la ligne par un simple espace
+
