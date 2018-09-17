@@ -1,0 +1,15 @@
+/**
+    Date : Sunday, 16th September 2018
+
+    Ressource/Book : Apprendre à programmer avec Python 3
+
+    Author : Gérard Swinnen
+
+    Challenge : #365DaysofCode #Python #Day6
+
+    Duration : 1h37mn54s
+*/
+
+                                 Summary of The Session
+                                -----------------------
+Only Exercises               
