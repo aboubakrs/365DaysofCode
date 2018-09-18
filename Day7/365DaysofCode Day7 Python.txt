@@ -1,0 +1,20 @@
+/**
+    Date : Monday, 17th September 2018
+
+    Ressource/Book : Apprendre à programmer avec Python 3
+
+    Author : Gérard Swinnen
+
+    Challenge : #365DaysofCode #Python #Day7
+
+    Duration : 1h50mn45s
+*/
+
+                                 Summary of The Session
+                                -----------------------
+Principaux types de données(Chapitre II)
+
+Les données numériques
+    Le type integer
+    Le type float
+
