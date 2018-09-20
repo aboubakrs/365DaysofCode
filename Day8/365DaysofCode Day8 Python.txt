@@ -1,0 +1,22 @@
+/**
+    Date : Tuesday, 18th September 2018
+
+    Ressource/Book : Apprendre à programmer avec Python 3
+
+    Author : Gérard Swinnen
+
+    Challenge : #365DaysofCode #Python #Day8
+
+    Duration : 2h06mn45s
+*/
+
+                                 Summary of The Session
+                                -----------------------
+Les données alphanumériques
+    Le type string [On a vu le \, le \n]
+    Les Triples Quotes
+    Accés au caractère individuelle d'une chaîne avec []... Exemple : ch = "Christine"... print(ch[0])
+    Opérations élémentaires sur les chaînes 
+    Concaténation de chaînes de caractères avec (+)
+    Déterminer la longueur d'une chaîne avec len()
+
