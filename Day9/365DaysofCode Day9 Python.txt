@@ -1,0 +1,23 @@
+/**
+    Date : Wednesday, 19th September 2018
+
+    Ressource/Book : Apprendre à programmer avec Python 3
+
+    Author : Gérard Swinnen
+
+    Challenge : #365DaysofCode #Python #Day9
+
+    Duration : 1h20mn45s
+*/
+
+                                 Summary of The Session
+                                -----------------------
+Les listes(première approche)
+    ==> une collection d’éléments séparés par des virgules, l’ensemble étant enfermé dans des crochets.
+    ==> Les elements d'une liste peuvent être remplacés
+
+    Supprimer un élément d'une liste avec la fonction del()
+    Ajouter un élément à une liste avec la fonction append()
+
+Exercices++
+
