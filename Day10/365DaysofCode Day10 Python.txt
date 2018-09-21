@@ -1,0 +1,41 @@
+/**
+    Date : Thursday, 20th September 2018
+
+    Ressource/Book : Apprendre à programmer avec Python 3
+
+    Author : Gérard Swinnen
+
+    Challenge : #365DaysofCode #Python #Day10
+
+    Duration : 1h51mn45s
+*/
+
+                                 Summary of The Session
+                                -----------------------
+Les Fonctions Prédefinies(Chapitre 6)
+    L’un des concepts les plus importants en programmation est celui de 
+    fonction24. Les fonctions permettent en effet de décomposer un programme 
+    complexe en une série de sous-programmes plus simples, lesquels peuvent à 
+    leur tour être décomposés en fragments plus petits, et ainsi de suite. 
+
+La Fonction pint()
+    sep est un argument qui permet de remplacer le separateur par defaut "espace" dans la fonction print()
+    end est aussi un argument qui permet de remplacer le saut à la ligne
+
+La Fonction input()
+    Cette fonction provoque une interruption dans le programme courant. L’utilisateur est invité à entrer des caractères au clavier et à terminer avec <Enter>. 
+    int() permet de convertir en un entier une chaine de caractères saisies
+    float permet de convertir en un réel une chaine de caractères saisies
+
+Importer un Module de Fonctions
+    Les modules sont des fichiers qui regroupent des ensembles de fonctions
+    Exemple : from math import * ==> Cette ligne indique à Python qu’il lui 
+        faut inclure dans le programme courant toutes les fonctions (c’est là la 
+        signification du symbole « joker » * ) du module math, lequel contient une 
+        bibliothèque de fonctions mathématiques pré-programmées. 
+    sqrt() = Fonction mathématique
+    sin() = Foonction mathématique
+    cos() = Fonction mathématique
+
+Exercices
+
