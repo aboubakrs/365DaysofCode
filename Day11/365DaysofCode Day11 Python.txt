@@ -1,0 +1,27 @@
+/**
+    Date : Friday, 21th September 2018
+
+    Ressource/Book : Apprendre à programmer avec Python 3
+
+    Author : Gérard Swinnen
+
+    Challenge : #365DaysofCode #Python #Day11
+
+    Duration : 1h45mn18s
+*/
+
+                                 Summary of The Session
+                                -----------------------
+Un peu de détente avec le module turtle
+    un module Python qui permet de réaliser des « graphiques tortue », 
+    c’est-à-dire des dessins géométriques correspondant à la piste laissée 
+    derrière elle par une petite « tortue » virtuelle, dont nous contrôlons 
+    les déplacements sur l’écran de l’ordinateur à l’aide d’instructions 
+    simples. 
+
+Véracité/fausseté d’une expression 
+    Le type booléen [True][False]
+
+Revision
+
+Ultimate Revision
