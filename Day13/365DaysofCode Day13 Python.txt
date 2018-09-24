@@ -1,0 +1,37 @@
+/**
+    Date : Sunday, 23th September 2018
+
+    Ressource/Book : Apprendre à programmer avec Python 3
+
+    Author : Gérard Swinnen
+
+    Challenge : #365DaysofCode #Python #Day13
+
+    Duration : 1h05mn39
+*/
+
+                                 Summary of The Session
+                                -----------------------
+Fonctions Originales(Chapitre 7)
+
+Définir une Fonction
+    Une fonction est donc en quelque sorte une nouvelle instruction 
+    personnalisée, que vous ajoutez vous-même librement à votre langage de 
+    programmation. 
+
+    La syntaxe Python pour la définition d’une fonction est la suivante : 
+        def nomDeLaFonction(liste de paramètres):    
+            ...     
+            bloc d'instructions    
+            ...
+
+    def est une instruction composée.
+
+Fonction simple sans paramètres
+
+Fonction avec paramètre
+    Dans la définition d’une telle fonction, il faut prévoir une variable 
+    particulière pour recevoir l’argument transmis. Cette variable 
+    particulière s’appelle un paramètre.
+
+Utilisation d’une variable comme argument 
