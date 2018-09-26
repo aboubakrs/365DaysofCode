@@ -1,0 +1,32 @@
+/**
+    Date : Tuesday, 25th September 2018
+
+    Ressource/Book : Apprendre à programmer avec Python 3
+
+    Author : Gérard Swinnen
+
+    Challenge : #365DaysofCode #Python #Day15
+
+    Duration : 1h50mn45s
+*/
+
+                                 Summary of The Session
+                                -----------------------
+Variables locales, variables globales
+    -variables locales à la fonction : Lorsque nous définissons des variables 
+        à l’intérieur du corps d’une fonction, ces variables ne sont 
+        accessibles qu’à la fonction elle-même.
+    - variables globales : Ce sont les variables définies à l’extérieur d’une 
+        fonction. Leur contenu est « visible » de l’intérieur d’une fonction, 
+        mais la fonction ne peut pas le modifier.
+    -L'instruction global :  Cette instruction permet d’indiquer – à 
+        l’intérieur de la définition d’une fonction – quelles sont les 
+        variables à traiter globalement.
+
+Vraies fonctions et procédures 
+    -Pour les puristes, les fonctions que nous avons décrites jusqu’à présent 
+    ne sont pas tout à fait des fonctions au sens strict, mais plus exactement 
+    des procédures35. Une « vraie » fonction (au sens strict) doit en effet 
+    renvoyer une valeur lorsqu’elle se termine. Une « vraie » fonction peut 
+    s’utiliser à la droite du signe égale dans des expressions telles que 
+    y = sin(a).
