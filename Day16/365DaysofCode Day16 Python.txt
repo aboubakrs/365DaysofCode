@@ -1,0 +1,29 @@
+/**
+    Date : Wednesday, 26th September 2018
+
+    Ressource/Book : Apprendre à programmer avec Python 3
+
+    Author : Gérard Swinnen
+
+    Challenge : #365DaysofCode #Python #Day16
+
+    Duration : 1h32mn09s
+*/
+
+                                 Summary of The Session
+                                -----------------------
+Utilisation des fonctions dans un script
+    -Dans un script, la définition des fonctions doit précéder leur utilisation
+
+Modules de fonctions
+
+Documentation des Fonctions(Exemple)
+    def essai():
+        "Cette Fonction ne fait presque rien"
+        print("R.A.S)
+    .Pour appeller la fonction, on fait comme dab : essai() et c'est R.A.S qui va s'afficher.
+    .Pour voir la Documentation de la fonction, on fait : print(essai.__doc__)
+
+Prenez donc la peine d’incorporer une telle chaîne explicative dans toutes vos
+définitions de fonctions futures : il s’agit là d’une pratique hautement 
+recommandable. 
