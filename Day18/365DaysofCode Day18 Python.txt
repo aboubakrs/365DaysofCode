@@ -1,0 +1,19 @@
+/**
+    Date : Friday, 28th September 2018
+
+    Ressource/Book : Apprendre à programmer avec Python 3
+
+    Author : Gérard Swinnen
+
+    Challenge : #365DaysofCode #Python #Day18
+
+    Duration : Undefined
+*/
+
+                                 Summary of The Session
+                                -----------------------
+Revisions 
+
+Exercises
+
+Les Algo m'ont fatigué de Ouf, Noo meme pas les algos mais La structure des Fonctions
