@@ -1,0 +1,38 @@
+/**
+    Date : Saturday, 29th September 2018
+
+    Ressource/Book : Apprendre à programmer avec Python 3
+
+    Author : Gérard Swinnen
+
+    Challenge : #365DaysofCode #Python #Day19
+
+    Duration : 1h42mn45s
+*/
+
+                                 Summary of The Session
+                                -----------------------
+Typage des paramètres
+    -Vous avez appris que le typage des variables sous Python est un typage 
+    dynamique, ce qui signifie que le type d’une variable est défini au moment 
+    où on lui affecte une valeur. Ce mécanisme fonctionne aussi pour les 
+    paramètres d’une fonction. Le type d’un paramètre devient automatiquement 
+    le même que celui de l’argument qui a été transmis à la fonction.
+
+Valeurs par défaut pour les paramètres
+    -Dans la définition d’une fonction, il est possible (et souvent 
+    souhaitable) de définir un argument par défaut pour chacun des paramètres. 
+    On obtient ainsi une fonction qui peut être appelée avec une partie 
+    seulement des arguments attendus.
+
+Arguments avec étiquettes 
+    -Dans la plupart des langages de programmation, les arguments que l’on 
+    fournit lors de l’appel d’une fonction doivent être fournis exactement 
+    dans le même ordre que celui des paramètres qui leur correspondent dans la 
+    définition de la fonction.
+    -Python autorise cependant une souplesse beaucoup plus grande. Si les 
+    paramètres annoncés dans la définition de la fonction ont reçu chacun une 
+    valeur par défaut, sous la forme déjà décrite ci-dessus, on peut faire 
+    appel à la fonction en fournissant les arguments correspondants dans 
+    n’importe quel ordre, à la condition de désigner nommément les paramètres 
+    correspondants.
