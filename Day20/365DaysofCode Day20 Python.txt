@@ -1,0 +1,17 @@
+/**
+    Date : Sunday, 30th September 2018
+
+    Ressource/Book : Apprendre à programmer avec Python 3
+
+    Author : Gérard Swinnen
+
+    Challenge : #365DaysofCode #Python #Day20
+
+    Duration : Undefined
+*/
+
+                                 Summary of The Session
+                                -----------------------
+Exercises
+
+Revisions
